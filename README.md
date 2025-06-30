@@ -128,7 +128,3 @@ If you use this code or ideas in your research, please cite our paper.
 xxx
 
 If you have any questions, please open an issue in this repository.
-
-<p align="center">
-  <b>MLP-MFF: Lightweight, Efficient, and Powerful Multi-focus Image Fusion</b>
-</p> 
