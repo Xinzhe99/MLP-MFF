@@ -66,7 +66,7 @@ Organize your multi-focus dataset as:
         sourceB/
         groundtruth/
 ```
-You can refer the code in [SwinMFF](https://github.com/Xinzhe99/SwinMFF).
+About how to make datasets for training, you can refer the code in [LightMFF](https://github.com/Xinzhe99/LightMFF).
 ### 3. Train
 ```bash
 python train.py --mff_datapath /path/to/dataset --epochs 20 --batch_size 32
