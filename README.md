@@ -77,6 +77,10 @@ python train.py --mff_datapath /path/to/dataset --epochs 20 --batch_size 32
 python predict.py --model_path model.pth --input_dir /path/to/testset --output_dir ./results
 ```
 
+### 5. Results download link.
+```bash
+https://pan.baidu.com/s/1yp9GYKGFMN3irKwnc1q2SQ?pwd=cite
+```
 ---
 
 ## 📝 Citation
