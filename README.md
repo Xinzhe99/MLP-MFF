@@ -128,9 +128,4 @@ If you use this code or ideas in your research, please cite our paper.
   organization={IEEE}
 }
 ```
-
-
-## 🙏 Acknowledgements
-xxx
-
 If you have any questions, please open an issue in this repository.
