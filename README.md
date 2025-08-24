@@ -3,7 +3,7 @@
 ## 📖 Introduction
 
 **MLP-MFF** is a lightweight, end-to-end multi-focus image fusion framework based on a pyramid fusion MLP architecture. It achieves ultra-efficient and high-quality fusion of multi-focus images, making it suitable for real-time and resource-constrained applications.
----
+
 ## 📄 Paper Link
 
 You can read the paper here:  
