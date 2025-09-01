@@ -2,10 +2,6 @@
 
 > 🔔 **Note**: Our paper is accepted by Sensors.  [Website Link](https://www.mdpi.com/1424-8220/25/16/5146)
 
-<div align="center">
-    <img src="assets/framework.png" width="800"/>
-</div>
-
 ## 📖 Introduction
 
 Limited depth of field in modern optical imaging systems often results in partially focused images. Multi-focus image fusion (MFF) addresses this by synthesizing an all-in-focus image from multiple source images captured at different focal planes. While deep learning-based MFF methods have shown promising results, existing approaches face significant challenges. Convolutional Neural Networks (CNNs) often struggle to capture long-range dependencies effectively, while Transformer and Mamba-based architectures, despite their strengths, suffer from high computational costs and rigid input size constraints, frequently necessitating patch-wise fusion during inference—a compromise that undermines the realization of a true global receptive field. To overcome these limitations, we propose MLP-MFF, a novel lightweight, end-to-end MFF network built upon the Pyramid Fusion Multi-Layer Perceptron (PFMLP) architecture. MLP-MFF is specifically designed to handle flexible input scales, efficiently learn multi-scale feature representations, and capture critical long-range dependencies. Furthermore, we introduce a Dual-Path Adaptive Multi-scale Feature-Fusion Module based on Hybrid Attention (DAMFFM-HA), which adaptively integrates hybrid attention mechanisms and allocates weights to optimally fuse multi-scale features, thereby significantly enhancing fusion performance. Extensive experiments on public multi-focus image datasets demonstrate that our proposed MLP-MFF achieves competitive, and often superior, fusion quality compared to current state-of-the-art MFF methods, all while maintaining a lightweight and efficient architecture.
