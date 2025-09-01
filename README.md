@@ -95,6 +95,16 @@ https://pan.baidu.com/s/1yp9GYKGFMN3irKwnc1q2SQ?pwd=cite
 If you use this code or ideas in your research, please cite our paper.
 
 ```bibtex
+@article{xie2025lightmff,
+  title={LightMFF: A Simple and Efficient Ultra-Lightweight Multi-Focus Image Fusion Network},
+  author={Xie, Xinzhe and Lin, Zijian and Guo, Buyu and He, Shuangyan and Gu, Yanzhen and Bai, Yefei and Li, Peiliang},
+  journal={Applied Sciences},
+  volume={15},
+  number={13},
+  pages={7500},
+  year={2025},
+  publisher={MDPI}
+}
 @article{xie2025stackmff,
   title={StackMFF: end-to-end multi-focus image stack fusion network},
   author={Xie, Xinzhe and Qingyan, Jiang and Chen, Dong and Guo, Buyu and Li, Peiliang and Zhou, Sangjun},
